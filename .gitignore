@@ -26,3 +26,10 @@ venv/
 .idea/
 *.swp
 *.swo
+
+# CatBoost
+catboost_info/
+
+# Logs and PID files
+*.log
+*.pid
